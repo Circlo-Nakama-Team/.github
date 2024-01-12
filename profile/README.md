@@ -13,7 +13,7 @@ Our project repository
 
 ## Our Team
 Name | GDSC Chapter | Role
-:---:|:---|:---|:---
+:---:|:---|:---
 Moh. Azzam Priyanto | UPN Veteran Jawa Timur | Hustler
 Yanuar Hakam Rosyadi | UPN Veteran Jawa Timur | Hipster
 Fahrul Firmansyah | UPN Veteran Jawa Timur | Hacker
