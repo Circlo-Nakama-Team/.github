@@ -13,7 +13,7 @@ Our project repository
 3. [Circlo ML](https://github.com/Circlo-Nakama-Team/ML-Circlo)
 
 Build Apk
-![Circlo App](https://drive.google.com/file/d/1IXbCyMyx0cwVvYnrP6ENO_4LuGuz7JJG/view?usp=sharing)
+<a href="https://drive.google.com/file/d/1IXbCyMyx0cwVvYnrP6ENO_4LuGuz7JJG/view?usp=sharing" >Circlo App</a>
 
 ## Our Team
 Name | GDSC Chapter | Role
