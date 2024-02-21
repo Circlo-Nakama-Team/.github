@@ -1,4 +1,4 @@
-# Nakama Tech - Hackfest 2024
+# Nakama Tech - Google Solution Challenge 2024
 ## Circlo: Transforming Waste, Harmonizing Space
 ![](https://github.com/Circlo-Nakama-Team/.github/blob/main/NakamaTech_Slide%20Deck_Circlo.png)
 Circlo is an innovative waste management platform dedicated to encouraging environmental awareness through creative means. Our mission revolves around educating the public about the transformative potential of repurposing used items into valuable resources. By empowering individuals with the knowledge and skills to recycle items in their environment, we aim to foster a sustainable mindset. Circlo not only manages waste but also becomes a catalyst for change towards a more resourceful and environmentally conscious society, as well as supporting the government in implementing smart and healthy cities.
