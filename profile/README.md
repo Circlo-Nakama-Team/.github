@@ -12,10 +12,6 @@ Our project repository
 2. [Circlo Backend](https://github.com/Circlo-Nakama-Team/Backend-Circlo)
 3. [Circlo ML](https://github.com/Circlo-Nakama-Team/ML-Circlo)
 
-Build Apk
-<a href="https://drive.google.com/file/d/1IXbCyMyx0cwVvYnrP6ENO_4LuGuz7JJG/view?usp=sharing" >Circlo App</a>
-<br>To run this app, we highly recommend to using manual authentication using email and password. Because our google auth still in development stage
-
 ## Our Team
 Name | GDSC Chapter | Role
 :---:|:---|:---
